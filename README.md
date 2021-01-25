@@ -1,6 +1,6 @@
 # Not Found Page
 
-This project is only for testing purposes, I use the API from Giphy and React.js<br>
+This project is only for testing purposes, I use the API from Giphy, React.js and Tailwindcss<br>
 I set the API Key for Giphy in /src/services/giphy/instance.js, is only for development so feel free to use it
 
 ## Installing 🚀
